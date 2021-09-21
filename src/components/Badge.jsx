@@ -17,7 +17,9 @@ export default function Badge(props) {
         "sb-component-block",
         "sb-component-badge",
         cssClasses
-      )}>
+      )}
+      sb-
+      >
       HI! — {label}
     </div>
   );

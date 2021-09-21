@@ -18,7 +18,7 @@ export default function Badge(props) {
         "sb-component-badge",
         cssClasses
       )}
-      sb-
+      data-sb-field-path=".label"
       >
       HI! — {label}
     </div>
